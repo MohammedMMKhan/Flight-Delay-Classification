@@ -1,4 +1,7 @@
 # Flight Delay Prediction Using Classification Algorithms
+
+[Flight Delay Prediction Using Classification Algorithms](https://github.com/user-attachments/files/22661882/Flight.Delay.Prediction.Using.Classification.Algorithms.pdf)
+
 As part of my Applied Machine Learning module at university, I completed a project focused on predicting flight delays using classification algorithms. The models implemented included Logistic Regression, LightGBM, and XGBoost. This work was awarded a first-class.
 
 ### Abstract
@@ -9,3 +12,5 @@ evaluated by using metrics such as Precision, Recall, F1-Score and Accuracy. The
 flight database covering the period of January to July 2022. The results indicate that the LightGBM method was the most
 effective in predicting flight delays. However, further experimentation with the methodology and the inclusion of additional
 data, ideally covering more months, is necessary to validate this conclusion.
+
+
